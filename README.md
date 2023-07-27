@@ -1,1 +1,1 @@
-# Obsidian_Documents
+# Obsidian Vaults
